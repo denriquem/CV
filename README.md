@@ -4,6 +4,12 @@ As an insatiably curious cognitive neuroscientist, when I started coding, someth
 
 I've always loved learning and stretching myself accademically. I currently have a paper on decision making in paranoia under review for publication. Tech seems like the perfect place to permanently learn and code seems like the perfect medium see fast paced growth and the product of your work.
 
+## Projects
+
+- Moovli: Final project at Makers, where you can click on any country and get the best movies for that country. https://github.com/AndreaDiotallevi/moovli
+- Acebook: a social media webpage that allows users to post messages onto each others walls. They can edit and delete their own posts and interact by viewing other users home pages. https://github.com/denriquem/acebook--TeamFavouriteFriendLove-
+- Bank challenge: https://github.com/denriquem/bank_challenge/tree/master/coverage
+
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -38,8 +44,6 @@ Being genuiniely open and curious led me into sciecnce, where I could delve into
 - BSc: Neuroscience
 - 2.1 
 - Dissertation on cognitive remediation therapy in Bipolar Disorder.
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Experience
 
