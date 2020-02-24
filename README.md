@@ -1,6 +1,6 @@
 ## Daniel Martinez-Gatell
 
-As an insatiably curious cognitive neuroscientist, when I started coding, something clicked. The combination of creativity, logic and seeming like a strange fingerprint of our own thought processes, made me fall in love with coding.
+As an cognitive neuroscientist, when I started coding, something clicked. The combination of creativity, logic and seeming like a strange fingerprint of our own thought processes, made me fall in love with coding.
 
 I've always loved learning and stretching myself accademically. I currently have a paper on decision making in paranoia under review for publication. Tech seems like the perfect place to permanently learn and code seems like the perfect medium see fast paced growth and the product of your work.
 
@@ -8,7 +8,7 @@ I've always loved learning and stretching myself accademically. I currently have
 
 - Moovli: Final project at Makers, where you can click on any country and get the best movies for that country. https://github.com/AndreaDiotallevi/moovli
 - Acebook: a social media webpage that allows users to post messages onto each others walls. They can edit and delete their own posts and interact by viewing other users home pages. https://github.com/denriquem/acebook--TeamFavouriteFriendLove-
-- Bank Challenge: https://github.com/denriquem/bank_challenge/tree/master/coverage
+- Takeaway challenge: https://github.com/denriquem/takeaway-challenge
 
 ## Skills
 
