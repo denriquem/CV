@@ -19,7 +19,7 @@ In order to complete a degree in nueroscience and a masters in social cognition 
 
 #### Curiousity
 
-Being genuiniely open and curious led me into sciecnce, where I could delve into the inner workings of the mind and brain. For me, curiousity entails a flexibility, openness and bravery to consider different perspectives and hypotheses. During my previous role as an operational scientist and during Makers, curiosity has allowed me to explore a range of topics that I wouldn't have expected to be initially interested in. For example, during my time working for Cambridge Cognition, in addition to researching the validity of cognitive tests, I started reseaching the role of stress on cognitive performance as a side project which resulted in this blog post: https://www.cambridgecognition.com/blog/entry/can-stress-at-work-affect-cognitive-performance
+Being genuiniely open and curious led me into science, where I could delve into the inner workings of the mind and brain. For me, curiousity entails a flexibility, openness and bravery to consider different perspectives and hypotheses. During my previous role as an operational scientist and during Makers, curiosity has allowed me to explore a range of topics that I wouldn't have expected to be initially interested in. For example, during my time working for Cambridge Cognition, in addition to researching the validity of cognitive tests, I started reseaching the role of stress on cognitive performance as a side project which resulted in this blog post: https://www.cambridgecognition.com/blog/entry/can-stress-at-work-affect-cognitive-performance
 
 
 ## Education
