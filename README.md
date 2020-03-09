@@ -8,7 +8,7 @@ I've always loved learning and stretching myself accademically. I currently have
 
 - Moovli: Final project at Makers, where you can click on any country and get the best movies for that country. https://github.com/AndreaDiotallevi/moovli
 - Acebook: a social media webpage that allows users to post messages onto each others walls. They can edit and delete their own posts and interact by viewing other users home pages. https://github.com/denriquem/acebook--TeamFavouriteFriendLove-
-- Takeaway challenge: https://github.com/denriquem/takeaway-challenge
+- Boris Bike Challenge: A program that emulates the docking stations, bikes and infrastructure of the boris bike system in order to practice the fundamentals of object oriented programming in javascript. https://github.com/denriquem/Boris_Bikes_JS
 
 ## Skills
 
