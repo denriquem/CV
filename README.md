@@ -12,8 +12,6 @@ I've always loved learning and stretching myself accademically. I currently have
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
 #### Discipline
 
 In order to complete a degree in nueroscience and a masters in social cognition I had to work incredibly hard for long periods of time. I regularly worked 14 hours a day seven days week whilst managint to look after myself. I would regularly be confronted with a piece of work or paper that I didn't understand. Through hard work and perseverance I would break down the unintelligible paper into key concepts that I would research indpendently and then I would piece the puzzle together.
