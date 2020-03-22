@@ -56,6 +56,7 @@ Being genuiniely open and curious led me into science, where I could delve into 
 - Trained academics on using cognitive testing software.
 
 **University of Cambridge, Institute of Public Health** (January 2017 - March 2017)
+
 *Research Assistant*  
 - Reviewed qualitative methods for a research project.
 - Adminstrative work to assist the development of the Institute for Research Improvement.
