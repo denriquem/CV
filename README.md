@@ -7,7 +7,7 @@ I've always loved learning and stretching myself accademically. I currently have
 ## Projects
 
 - [Moovli](https://github.com/AndreaDiotallevi/moovli): Final project at Makers, where you can click on any country and get the best movies from that country. 
-- [DreamCatcher](https://github.com/denriquem/dreamCatcher): Individual side project - a full stack MERN app where you can share and interpet your dreams with friends.
+- [DreamCatcher](https://github.com/denriquem/dreamCatcher): Individual side project - a full stack MERN app where you can share and interpret your dreams with friends.
 - [Acebook](https://github.com/denriquem/acebook--TeamFavouriteFriendLove-): a social media webpage that allows users to post messages onto each others walls. Users can edit and delete their  posts and interact by viewing other users home pages. 
 - [Boris Bike Challenge](https://github.com/denriquem/Boris_Bikes_JS): A program that emulates the docking stations, bikes and infrastructure of the boris bike system in order to practice the fundamentals of object oriented programming in javascript. 
 
