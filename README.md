@@ -2,7 +2,7 @@
 
 As a cognitive neuroscientist, when I started coding, something clicked. The combination of creativity, logic and seeming like a fingerprint of our own thought processes, made me fall in love with coding.
 
-I've always loved learning and stretching myself accademically. I currently have a paper on decision making in paranoia under review for publication. Tech seems like the perfect place to permanently learn and code seems like the perfect medium see fast paced growth and the product of your work.
+I've always loved learning and stretching myself academically. I currently have a paper on decision making in paranoia under review for publication. Tech seems like the perfect place to permanently learn and code seems like the perfect medium see fast paced growth and the product of your work.
 
 ## Projects
 
